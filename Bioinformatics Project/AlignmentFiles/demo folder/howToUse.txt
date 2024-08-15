@@ -1,0 +1,4 @@
+This will only work on linux
+To use the demo:
+    1. Go to the file location on terminal
+    2. type "./demo"
