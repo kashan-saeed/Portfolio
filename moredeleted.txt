@@ -1,0 +1,9 @@
+<b>I am currently revamping my portfolio. Here is a short summary:<br />
+<a href="https://drive.google.com/file/d/1O23USf8OVF0CLnRfZAwYHN8f-JPfZzw2/view?usp=sharing" target="_blank">My Latest Resume<br /></a>
+<b>Interesting Projects:
+<ol>
+    <li><a href="https://github.com/kashan-saeed/Quickcard-AI">Quickcards AI: AI-powered flashcard study tool</a></li>
+    <li>Tea</li>
+    <li>Milk</li>
+</ol>
+<a href="https://github.com/Kashan-Saeed">GitHub</a> - <a href="https://www.linkedin.com/in/kashan-saeed/">LinkedIn</a></b>
